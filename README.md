@@ -5,10 +5,14 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 
 ---
 
- ...and a wanna be pro surfer :surfing_man:
-
 </h3>
 
+<br>
+<p align="center">
+    <a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Erez Michael's streak" src="https://github-readme-stats.vercel.app/api?username=erez-michael&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </a>
+</p>
 <br/>
 
 <div>
@@ -16,19 +20,26 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 </div>
 
 
- >🌱 I’m currently learning ...***Svelte*** ***Typescript*** ***strapi*** ***Next.js*** How to make awesome ***README***s
+ 🌱 I’m currently learning ...***Svelte*** ***Typescript*** ***strapi*** ***Next.js*** How to make awesome ***README***s
  >
- >>👯 I’m looking to collaborate on ... any projects using ***Typescript*** & ***Svelt***
+ 👯 I’m looking to collaborate on ... any projects using ***Typescript*** & ***Svelt***
  >
- >>>:hammer_and_wrench: [**Portfolio**] **Coming soon !**
+ :hammer_and_wrench: [**Portfolio**] **Coming soon !**
 
 <br>
-<br>
-<p align="center">
-    <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Erez Michael's streak" src="https://github-readme-stats.vercel.app/api?username=erez-michael&show_icons=true&theme=tokyonight"/>
-    </a>
-</p>
+
+<div>
+<h1> My Projects </h1>
+</div>
+
+<p align="left"> 
+<a href="(https://github.com/Erez-Michael/River-Quiver)" target="_blank" rel="noreferrer"><img width="180px" height='50px'src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1676650449/riverQuiver_aoob6l.png"/></a>
+
+ <br>
+
+ <br>
+
+
 <br/>
 
 <br>
@@ -63,6 +74,5 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/erezmichael/"><img width="40px" height='40px' src="https://img.icons8.com/color/344/linkedin-2--v1.png"/></a> &nbsp; &nbsp; 
-<a href = "erezmichael01@gmail.com"><img width="40px" height='40px' src="https://img.icons8.com/color/344/gmail-new.png"/></a>
 </p>
 </div>
