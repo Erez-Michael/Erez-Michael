@@ -33,7 +33,7 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 </div>
 
 <p align="left"> 
-<a href="(https://github.com/Erez-Michael/River-Quiver)" target="_blank" rel="noreferrer"><img width="180px" height='50px'src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1676650449/riverQuiver_aoob6l.png"/></a>
+<a href="https://github.com/Erez-Michael/River-Quiver" target="_blank" rel="noreferrer"><img width="180px" height='50px'src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1676650449/riverQuiver_aoob6l.png"/></a>
 
  <br>
 
