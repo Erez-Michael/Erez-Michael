@@ -1,4 +1,4 @@
-<h1 align="center">:high_brightness: Welcome web surfers ! :high_brightness:</h1>
+<h1 align="center">:high_brightness: &nbsp; &nbsp; &nbsp; &nbsp; Welcome web surfers ! &nbsp; &nbsp;  &nbsp; &nbsp;:high_brightness:</h1>
 <h3 align="center">
 
 I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer:*** 
@@ -16,7 +16,7 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 <br/>
 
 <div>
-<h1> A bit about Me </h1>
+<h1> A bit about Me :arrow_heading_down:</h1>
 </div>
 
 
@@ -24,12 +24,12 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
  >
  👯 I’m looking to collaborate on ... any projects using ***Typescript*** & ***Svelt***
  >
- :hammer_and_wrench: [**Portfolio**] **Coming soon !**
+ :hammer_and_wrench: [**Portfolio**] **Coming soon !** :hammer_and_wrench:
 
 <br>
 
 <div>
-<h1> My Projects </h1>
+<h1> My Projects :arrow_heading_down:</h1>
 </div>
 
 <p align="left"> 
@@ -43,7 +43,7 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 <br/>
 
 <br>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673462820/readme-icons/ua7s9uwpkheauietvzbi.svg"/></a>
@@ -62,7 +62,7 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1676649490/insomnia-svgrepo-com_zju7i2.svg"/></a>
 </p>
 
-<h2 align="center">Currently Learning:</h2>
+<h2 align="center">Currently Learning</h2>
 
 <p align="center"> 
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673462820/readme-icons/taqm1ibv0fjdjknazzqs.svg"/></a>
