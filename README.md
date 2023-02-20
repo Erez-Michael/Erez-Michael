@@ -1,4 +1,4 @@
-<h1 align="center">:high_brightness: &nbsp; &nbsp; &nbsp; &nbsp; Welcome <a href="[https://www.w3.org/html/](https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet)" target="_blank" rel="noreferrer"> web surfers !</> &nbsp; &nbsp;  &nbsp; &nbsp;:high_brightness:</h1>
+<h1 align="center">:high_brightness: &nbsp; &nbsp; &nbsp; &nbsp; Welcome <a style="text-decoration: none" href="https://www.surfertoday.com/surfing/the-woman-who-coined-the-expression-surfing-the-internet"> web surfers !</a> &nbsp; &nbsp;  &nbsp; &nbsp;:high_brightness:</h1>
 <h3 align="center">
 
 I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer:*** 
