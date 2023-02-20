@@ -62,13 +62,6 @@ I'm professional chef :man_cook: turned -> ***Full Stack Web Developer :computer
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1676649490/insomnia-svgrepo-com_zju7i2.svg"/></a>
 </p>
 
-<h2 align="center">Currently Learning</h2>
-
-<p align="center"> 
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673462820/readme-icons/taqm1ibv0fjdjknazzqs.svg"/></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1676648368/svelte-1_jchktm.svg"/></a>
-<a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"><img width="48px" height='48px' src="https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673462818/readme-icons/xjd0jfckrygesuyuerhf.svg"/></a>
-</p>
 
 <h2 align="center">Let's connect !</h2>
 
