@@ -45,8 +45,29 @@ Culinary expert &nbsp; :man_cook: &nbsp; turned &nbsp; -> &nbsp; ***Full Stack W
     
  <br>
 
+<p align="left"> 
+<a href="https://github.com/Erez-Michael/gogo-gadgets-e-commerce" target="_blank" rel="noreferrer"><img width="180px" height='50px'src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1678222645/Gogo_w4ahah.png"/></a>
+
+***GoGo Gadgets***
+
+>****
+>>****
+>>>****
+>>>>****
+>>>>>****
+
  <br>
 
+<p align="left"> 
+<a href="https://ludmer-engineering-eta.vercel.app/" target="_blank" rel="noreferrer"><img width="180px" height='50px'src="https://res.cloudinary.com/dhcrarc6f/image/upload/v1678222942/BlackOnBlue_toz6ca.png"/></a>
+
+***Ludmer Engineering*** 
+
+>****
+>>****
+>>>****
+>>>>****
+>>>>>****
 
 <br/>
 
