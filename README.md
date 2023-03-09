@@ -10,7 +10,7 @@ Culinary expert &nbsp; :man_cook: &nbsp; turned &nbsp; -> &nbsp; ***Full Stack W
 <br>
 <p align="center">
     <a>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Erez Michael's streak" src="https://github-readme-stats-pat_5.vercel.app/api?username=erez-michael&show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Erez Michael's streak" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erez-michael&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
 </p>
 <br/>
