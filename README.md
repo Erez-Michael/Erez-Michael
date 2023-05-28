@@ -24,7 +24,7 @@ Culinary expert &nbsp; :man_cook: &nbsp; turned &nbsp; -> &nbsp; ***Full Stack W
  >
  👯 I’m looking to collaborate on ... any projects using ***Typescript*** & ***Svelt***
  >
- :hammer_and_wrench: [**Portfolio**] **Coming soon !** :hammer_and_wrench:
+ Check out my <a style="text-decoration: none" href="https://erez-michael-portfolio.vercel.app/">[**Portfolio**]</a>
 
 <br>
 
