@@ -20,11 +20,11 @@ Culinary expert &nbsp; :man_cook: &nbsp; turned &nbsp; -> &nbsp; ***Full Stack W
 </div>
 
 
- 🌱 I’m currently learning ...***Svelte*** ***Typescript*** ***strapi*** ***Next.js*** How to make awesome ***README***s
+ 🌱 I’m currently learning ...***PostCSS*** ***Typescript*** ***C# & .NET*** ***Next.js*** How to make awesome ***README***s
  >
- 👯 I’m looking to collaborate on ... any projects using ***Typescript*** & ***Svelt***
+ 👯 Always looking to collaborate on projects big or small 
  >
- Check out my <a style="text-decoration: none" href="https://erez-michael-portfolio.vercel.app/">[**Portfolio**]</a>
+ :books: Check out my <a style="text-decoration: none" href="https://erez-michael-portfolio.vercel.app/">**Portfolio**</a>
 
 <br>
 
