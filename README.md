@@ -24,7 +24,7 @@ Culinary expert &nbsp; :man_cook: &nbsp; turned &nbsp; -> &nbsp; ***Full Stack W
  >
  👯 Always looking to collaborate on projects big or small 
  >
- :books: Check out my <a style="text-decoration: none" href="https://erez-michael-portfolio.vercel.app/">**Portfolio**</a>
+ :books: Check out my <a style="text-decoration: none" href="https://erez-michael-portfolio.vercel.app/">**PORTFOLIO**</a>
 
 <br>
 
